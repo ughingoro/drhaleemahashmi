@@ -1,12 +1,9 @@
 "use client" // this is a client component
 import React from "react"
-import Image from "next/image"
-import { Link } from "react-scroll/modules"
-import { HiArrowDown } from "react-icons/hi"
 
 const Appointment = () => {
     return (
-        <section id="home">
+        <section id="appointment">
             <div className="flex flex-row text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left">
                 <div className="md:mt-2 md:w-3/5">
                     <h1 className="text-4xl font-bold mt-6 mb-2 md:mt-0 md:text-5xl">Appointment</h1>
