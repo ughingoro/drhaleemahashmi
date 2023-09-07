@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Obstetrician & Gynaecologist{" "}
             </span>
-            based in Karachi, Pakistan. experienced obstetrician and gynaecologist, I'm dedicated to providing the highest quality care to my patients. My practice offers a full range of services for women's health, from routine check-ups to advanced surgical procedures.
+            based in Karachi, Pakistan. experienced obstetrician and gynaecologist, I am dedicated to providing the highest quality care to my patients. My practice offers a full range of services for women&#39s health, from routine check-ups to advanced surgical procedures.
           </p>
           <Link
             to="projects"
